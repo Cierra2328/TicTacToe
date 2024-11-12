@@ -107,49 +107,49 @@ def win():
         b2.config(bg = "red")
         b3.config(bg = "red")
         disableButtons()
-        messagebox.showinfo("Tic Tac Toe", "X Wins")
+        messagebox.showinfo("Tic Tac Toe", "O Wins")
     elif b4["text"] == "O" and b5["text"] == "O" and b6["text"] == "O":
         b4.config(bg = "red") 
         b5.config(bg = "red")
         b6.config(bg = "red")
         disableButtons()
-        messagebox.showinfo("Tic Tac Toe", "X Wins")
+        messagebox.showinfo("Tic Tac Toe", "O Wins")
     elif b7["text"] == "O" and b8["text"] == "O" and b9["text"] == "O":
         b7.config(bg = "red") 
         b8.config(bg = "red")
         b9.config(bg = "red")
         disableButtons()
-        messagebox.showinfo("Tic Tac Toe", "X Wins")
+        messagebox.showinfo("Tic Tac Toe", "O Wins")
     elif b1["text"] == "O" and b4["text"] == "O" and b7["text"] == "O":
         b4.config(bg = "red") 
         b1.config(bg = "red")
         b7.config(bg = "red")
         disableButtons()
-        messagebox.showinfo("Tic Tac Toe", "X Wins")
+        messagebox.showinfo("Tic Tac Toe", "O Wins")
     elif b2["text"] == "O" and b5["text"] == "O" and b8["text"] == "O":
         b2.config(bg = "red") 
         b5.config(bg = "red")
         b8.config(bg = "red")
         disableButtons()
-        messagebox.showinfo("Tic Tac Toe", "X Wins")
+        messagebox.showinfo("Tic Tac Toe", "O Wins")
     elif b3["text"] == "O" and b6["text"] == "O" and b9["text"] == "O":
         b3.config(bg = "red") 
         b6.config(bg = "red")
         b9.config(bg = "red")
         disableButtons()
-        messagebox.showinfo("Tic Tac Toe", "X Wins")
+        messagebox.showinfo("Tic Tac Toe", "O Wins")
     elif b1["text"] == "O" and b5["text"] == "O" and b9["text"] == "O":
         b1.config(bg = "red") 
         b5.config(bg = "red")
         b9.config(bg = "red")
         disableButtons()
-        messagebox.showinfo("Tic Tac Toe", "X Wins")
+        messagebox.showinfo("Tic Tac Toe", "O Wins")
     elif b3["text"] == "O" and b5["text"] == "O" and b7["text"] == "O":
         b3.config(bg = "red") 
         b5.config(bg = "red")
         b7.config(bg = "red")
         disableButtons()
-        messagebox.showinfo("Tic Tac Toe", "X Wins")
+        messagebox.showinfo("Tic Tac Toe", "O Wins")
 
 
 
